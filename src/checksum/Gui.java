@@ -78,7 +78,7 @@ public class Gui extends JFrame {
 		successColor = new Color(140, 255, 102);
 		defaultColor = new Color(204, 204, 255);
 
-		fileButton = new JButton("File Button");
+		fileButton = new JButton("Choose File");
 		fileButton.setFocusPainted(false);
 		fileButton.setBackground(Color.ORANGE);
 		fileButton.setFont(fontButton);
